@@ -1,27 +1,26 @@
-# marketing_campaign_analysis
-Analysis of marketing campaigns and user behavior using SQL and BI tools
+# Marketing Campaign Analysis
 
-## Project Overview
-This project demonstrates analysis of marketing campaigns and user behavior. The goal is to show how to:
-- Evaluate marketing campaign performance
-- Track user behavior metrics
-- Identify opportunities to improve conversion and ROI
-- Create simple BI visualizations for actionable insights
+## Project Description
+This project analyzes marketing campaign data to understand which channels and campaigns generate the highest return on investment (ROI).  
+The dataset includes user interactions, impressions, clicks, conversions, costs, and revenue.  
+The goal is to identify which marketing efforts are most effective and optimize spending.
 
-## Data
-The dataset contains simulated marketing and user activity data, including:
-- Campaign ID
-- Channel (Email, Social Media, Ads)
-- Number of Impressions
-- Number of Clicks
-- Conversions
-- Revenue generated
-- User demographics (age, region)
+## Tools & Technologies
+- Python (pandas, matplotlib)
+- Google Colab
+- GitHub
 
-> Data is synthetic, created to simulate real business scenarios.
+## Steps Performed
+1. Loaded and explored the dataset
+2. Calculated marketing KPIs (CTR, Conversion Rate, CPA, ROI)
+3. Aggregated results by channel and campaign
+4. Visualized metrics using bar and line charts
+5. Summarized insights
 
-## Analysis Goals
-1. Calculate conversion rates and ROI for each channel
-2. Identify high-performing vs low-performing campaigns
-3. Explore user behavior patterns across different segments
-4. Visualize key metrics using charts and dashboards
+## Key Findings (Initial)
+*(To be filled after visualization step)*
+
+## Next Steps
+- Add campaign-level visualizations
+- Create regional and age-based performance analysis
+- Export report to Power BI for dashboarding
